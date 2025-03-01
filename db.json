@@ -1,0 +1,36 @@
+{
+    "videos": [
+        {
+            "id": 4,
+            "caption": "Love is forever.",
+            "url": "https://github.com/Mohit067/Instagram_Reels_Row_file/blob/main/4.mp4",
+            "like": 250,
+            "share": 30,
+            "comment": 50
+        },
+        {
+            "id": 1,
+            "caption": "Love is in the air.",
+            "url": "https://github.com/Mohit067/Instagram_Reels_Row_file/blob/main/1.mp4",
+            "like": 100,
+            "share": 10,
+            "comment": 20
+        },
+        {
+            "id": 2,
+            "caption": "Love is magic.",
+            "url": "https://github.com/Mohit067/Instagram_Reels_Row_file/blob/main/2.mp4",
+            "like": 150,
+            "share": 20,
+            "comment": 30
+        },
+        {
+            "id": 3,
+            "caption": "True love lasts.",
+            "url": "https://github.com/Mohit067/Instagram_Reels_Row_file/blob/main/3.mp4",
+            "like": 200,
+            "share": 25,
+            "comment": 40
+        }
+    ]
+}
